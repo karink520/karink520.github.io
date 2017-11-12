@@ -1,3 +1,6 @@
-[submodule "themes/newsprint"]
-	path = themes/newsprint
+[submodule "themes/newsprinthttps:/github.com/nurlansu/hugo-sustain"]
+	path = themes/newsprinthttps:/github.com/nurlansu/hugo-sustain
 	url = https://bitbucket.org/SamWhited/newsprint.git
+[submodule "themes/sustain"]
+	path = themes/sustain
+	url = https://github.com/nurlansu/hugo-sustain
