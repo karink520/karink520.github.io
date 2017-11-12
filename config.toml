@@ -3,8 +3,3 @@ languageCode = "en-us"
 title = "My Hugo Site"
 theme = "sustain"
 publishDir = "docs"
-
-[[menu.main]]
-  name = "About"
-  url = "#about"
-  weight = 4
