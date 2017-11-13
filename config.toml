@@ -16,7 +16,7 @@ theme = "hugo-sustain"
   description = "Weeeeeeeeeee"
 
   # Custom assets can be linked with their paths relative to static/
-  custom_css = []
+  custom_css = ["main.css"]
   custom_js  = []
 
 [params.social]

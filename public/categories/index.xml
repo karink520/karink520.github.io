@@ -10,5 +10,14 @@
 	<atom:link href="https://karinknudson.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Projects</title>
+      <link>https://karinknudson.com/categories/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://karinknudson.com/categories/projects/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
