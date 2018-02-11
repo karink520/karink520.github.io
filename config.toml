@@ -13,7 +13,7 @@ theme = "hugo-sustain"
 [params]
   avatar = "profile.png"
   author = "Karin Knudson"
-  description = "Weeeeeeeeeee"
+  #description = ""
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = ["main.css"]
@@ -22,9 +22,9 @@ theme = "hugo-sustain"
 [params.social]
   Github        = "karink520"
   Email         = "karink520@gmail.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
+  #Twitter       = "username"
+  #LinkedIn      = "username"
+  #Stackoverflow = "username"
 
 ## Main Menu
 [[menu.main]]
@@ -41,4 +41,4 @@ theme = "hugo-sustain"
   name = "resume"
   identifier = "resume"
   weight = 300
-  url = "/resume/"
+  url = "https://www.dropbox.com/s/7h8q5a1ex0k6ev5/KarinKnudsonResume.pdf?dl=0"

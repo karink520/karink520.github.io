@@ -1,0 +1,10 @@
+/* Main page with stikky-footer */
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+
+html, body {
+  height: 100%;
+  background-color: #fff;
+  font-family: 'Cormorant Garamond', serif;
+  /* The html and body elements cannot have any padding or margin. */
+  border-top: 30px solid #25e;
+}
