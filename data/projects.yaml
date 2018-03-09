@@ -1,6 +1,6 @@
 name: Projects
 source:
   - icon:
-    description: Voting rights and cological inference with PyMC3 (draft).
+    description: Voting rights and ecological inference with PyMC3 (draft).
     name: Ecological Inference
     url: https://github.com/karink520/ecological_inference/blob/master/Ecological%20Inference%20with%20Pymc3_.ipynb
