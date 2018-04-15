@@ -1,11 +1,16 @@
 name: Projects and Talks
 source:
   - icon:
-    description: Voting rights and ecological inference with PyMC3 (notebook).
-    name: Ecological Inference
+    description: Voting rights and ecological inference with PyMC3.
+    name: Ecological Inference (notebook)
     url: https://github.com/karink520/ecological_inference/blob/master/Ecological%20Inference%20with%20Pymc3_.ipynb
 
   - icon:
     description: Voting Rights and Bayesian Hierarchical Models (slides from talk for Boston Bayesians meetup)
-    name: Ecological Inference
+    name: Ecological Inference (slides)
     url: https://karink520.github.io/gerrymandering_slides_boston_bayesians/.
+
+  - icon:
+    description: Overview and course outline from my Bayesian Statistics course for high schoolers, assuming single-variable calculus knowledge and no previous statistics class.
+    name: Bayesian Statistics course
+    url: https://karink520.github.io/bayes_course/.
